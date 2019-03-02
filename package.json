@@ -1,0 +1,27 @@
+{
+  "name": "passport-frontier",
+  "version": "0.1.0",
+  "description": "Passport strategy for authentication with Frontier Store (www.frontierstore.net)",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayakMukhopadhyay/passport-frontier.git"
+  },
+  "keywords": [
+    "passport",
+    "frontier",
+    "auth",
+    "authentication",
+    "authn",
+    "identity"
+  ],
+  "author": "Sayak Mukhopadhyay <kodebloxapps@gmail.com> (https://kodeblox.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SayakMukhopadhyay/passport-frontier/issues"
+  },
+  "homepage": "https://github.com/SayakMukhopadhyay/passport-frontier#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
